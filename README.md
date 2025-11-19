@@ -24,7 +24,7 @@ L'exercice visait l'utilisation d'outils d'IA pour optimiser la création du liv
 
 ---
 
-## 🛠️ Outils & Techniques Mises en Œuvre
+#### 🛠️ Outils & Techniques Mises en Œuvre
 
 * **Génération d'Image par IA** : Utilisation de **Bing Image Creator** pour obtenir des visuels libres de droits adaptés au thème de la littérature africaine.
 * **Prompt Engineering (Rédaction)** : Mobilisation de **GPT** pour générer des accroches textuelles marketing pour le visuel.
